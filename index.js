@@ -619,7 +619,7 @@ if (config.AUTO_STATUS_REACT === "true") {
          
   //================ownerreact==============
   
-  if(senderNumber.includes("94743454928")){
+  if(senderNumber.includes(94743454928")){
   if(isReact) return
   m.react("🦄")
   }
